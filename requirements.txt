@@ -1,0 +1,6 @@
+# No external Python packages required
+# The script uses only Python standard library
+
+# However, you need to have the following installed on your system:
+# - git (command line tool)
+# - gh (GitHub CLI) - https://cli.github.com/
